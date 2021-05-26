@@ -1,4 +1,5 @@
 ### Hi there 👋
+Welcome to my profile. This github account is the one i use for all of my public projects!
 
 <!--
 **filipnyquist/filipnyquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
